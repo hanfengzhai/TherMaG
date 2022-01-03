@@ -6,6 +6,6 @@
 
 Engineering Design of Thermal-Magnetic Generator with Multidisciplinary Design Optimization
 
-**Currently we have not published any code yet.**
+**Currently we have not published any code yet. Related codes and data will be partially/fully made publicly available upon acceptance of the manuscript.**
 
 Copyright &copy; 2021, TherMaG Team, Cornell University
